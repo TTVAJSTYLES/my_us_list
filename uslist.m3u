@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SEC Network" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/TapTV/m3u8/main/logos/sec.png" group-title="Sports",SLING: SEC Network
+http://135.148.46.227:18000/412b4b124e7f425e9a4e2bbaddcbe168/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime Movies HDTV [East]" tvg-name="Lifetime Movie Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Lifetime_Movies_vertical.svg/revision/latest/scale-to-width-down/250?cb=20170718213528" group-title="Movies",SLING: Lifetime Movie Network
+http://135.148.46.227:18000/ca0887b0c8574aefbe8baeeeb9a0448f/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN HDTV" tvg-name="CNN" tvg-logo="" group-title="News",SLING: CNN
+http://135.148.46.227:18000/eb6c608319dc4328a9aa5bea1307cbaf/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC HDTV" tvg-name="AMC" tvg-logo="" group-title="Entertainment",SLING: AMC
+http://135.148.46.227:18000/21d18937ced74ecfbba333476d6f4270/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT HDTV" tvg-name="TNT" tvg-logo="" group-title="Entertainment",SLING: TNT
+http://135.148.46.227:18000/d74f03db90624c769e0c6d4c9745660d/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBS HDTV" tvg-name="TBS" tvg-logo="" group-title="Entertainment",SLING: TBS
+http://135.148.46.227:18000/f2763f605b2d4282a16d21f539512f76/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA Network HDTV" tvg-name="USA" tvg-logo="" group-title="Entertainment",SLING: USA
+http://135.148.46.227:18000/35b320ac77ce4a2fbaf685e401933dc1/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syfy HDTV" tvg-name="SYFY" tvg-logo="" group-title="Entertainment",SLING: SYFY
+http://135.148.46.227:18000/385c71f4210f457eb393041e36ed50b2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Food Network HDTV" tvg-name="Food Network" tvg-logo="" group-title="Lifestyle",SLING: Food Network
+http://135.148.46.227:18000/4c8d7953714d4fa88a4d541d07fd031b/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HGTV HDTV" tvg-name="HGTV" tvg-logo="" group-title="Lifestyle",SLING: HGTV
+http://135.148.46.227:18000/c763c4c3001f4a04970bca35000c0ded/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel HDTV [East]" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",SLING: Disney Channel
+http://135.148.46.227:18000/0e183596617d4425b9026cbf9603984b/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NFL RedZone HDTV" tvg-name="NFL RedZone" tvg-logo="" group-title="Sports",SLING: NFL RedZone
+http://135.148.46.227:18000/7bd920fabfd242018e3e5ea5469b1e88/hls/playlist.m3u8
